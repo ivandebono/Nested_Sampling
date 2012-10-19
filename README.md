@@ -52,8 +52,8 @@ Content
 * **lighthouse.py**  is an application of nested sampling to the Light House 
                         problem from Sivia and Skilling 2006, p 192
                         
-* *gauss.py* is an example of sampling a gaussian in a large number of dimensions.
+* **gauss.py** is an example of sampling a gaussian in a large number of dimensions.
 
-* *multigauss* is an example of sampling a posterior made of 3 gaussians and
+* **multigauss** is an example of sampling a posterior made of 3 gaussians and
 	compare a reconstruction of the posterior with the original.
-	(uses figure.py)
+	(uses **figure.py**)
