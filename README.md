@@ -1,3 +1,15 @@
+Nested Sampling
+===============
+
+This is my playground around *Nested Sampling methods*
+
+I adapted the C-code from Skilling, 2006 into python. Although not
+python-optimized this works just fine.
+
+
+
+Background
+----------
 
 Although small, the following main code incorporates the main ideas and should
 suffice for many applications. It is protected against over/underflow of
