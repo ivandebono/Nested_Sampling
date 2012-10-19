@@ -6,7 +6,9 @@ This is my playground around *Nested Sampling methods*
 I adapted the C-code of nested sampling from _Sivia and Skilling 2006_ (p. 188)
 Attempts to make its usage like emcee. (call it _nestee_? maybe not...)
 
-[Skilling Webpage](http://www.inference.phy.cam.ac.uk/bayesys/) for reference.
+[D. MacKay Webpage](http://www.inference.phy.cam.ac.uk/bayesys/) for reference.
+
+![Book](http://www.us.oup.com/images/covers/0198568312.jpg)
 
 *Note that the code is very close to the original C code, which may not be optimized for python usage. Although not python-optimized this works just fine.*
 
