@@ -30,7 +30,7 @@ We define xsi(x) = proportion of prior with likelihood greater than x.  In terms
 of xsi, the objects are uniformly sampled subject to the constraint xsi < xsi∗,
 where xsi∗ corresponds to L∗; 
 
-Example for many objects sampled uniformly in xsi < xsi∗, or equivalently
+Example for many objects sampled uniformly in x < x1, or equivalently
 in L > L∗.
 ![Nest](http://www.inference.phy.cam.ac.uk/bayesys/box/figs/nest.gif)
 (Illustration from Skilling, 2006)
