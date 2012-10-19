@@ -42,7 +42,8 @@ in L, in order to locate and quantify the tiny region of high likelihood where
 most of the joint distribution is to be found.
 
 
-
+Content
+-------
 
 **nest.py** is the main code (adapation from Sivia and Skilling 2006)
 **lighthouse.py**  is an application of nested sampling to the Light House 
