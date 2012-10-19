@@ -3,9 +3,13 @@ Nested Sampling
 
 This is my playground around *Nested Sampling methods*
 
-I adapted the C-code from Skilling, 2006 into python. Although not
-python-optimized this works just fine.
+I adapted the C-code from Skilling, 2006 into python. 
+I adapted the C-code of nested sampling from Sivia and Skilling 2006, p 188
+Attempts to make its usage like emcee. (call it nestee? maybe not...)
 
+*Note that the code is very close to the original C code, which may not be
+optimized for python usage. Although not python-optimized this works just fine.
+*
 
 
 Background
@@ -41,11 +45,6 @@ in L, in order to locate and quantify the tiny region of high likelihood where
 most of the joint distribution is to be found.
 
 
-Adaptation into python of nested sampling from Sivia and Skilling 2006, p 188
-Attempts to make its usage like emcee. (call it nestee? maybe not...)
-
-*Note that the code is very close to the original C code, which may not be
-optimized for python usage.*
 
 
 **nest.py** is the main code (adapation from Sivia and Skilling 2006)
