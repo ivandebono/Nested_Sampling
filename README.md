@@ -8,7 +8,8 @@ Attempts to make its usage like emcee. (call it _nestee_? maybe not...)
 
 [D. MacKay Webpage](http://www.inference.phy.cam.ac.uk/bayesys/) for reference.
 
-![Book](http://www.us.oup.com/images/covers/0198568312.jpg)
+![Book](http://www.us.oup.com/images/covers/0198568312.jpg) Data Analysis - A
+Bayesian Tutorial by Sivia and John Skilling (ISBN 0198568312)
 
 *Note that the code is very close to the original C code, which may not be optimized for python usage. Although not python-optimized this works just fine.*
 
